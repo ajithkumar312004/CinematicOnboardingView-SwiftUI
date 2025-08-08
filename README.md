@@ -2,7 +2,7 @@
 
 A cinematic onboarding flow built in SwiftUI
 
-[![Watch the video](https://adamlyttleapps.com/demo/OnboardingCinematicView/demo-preview.png)](https://adamlyttleapps.com/demo/OnboardingCinematicView/demo.mp4)
+[![Watch the video](https://adamlyttleapps.com/demo/OnboardingCinematicView/demo-preview-v2.png)](https://adamlyttleapps.com/demo/OnboardingCinematicView/demo.mp4)
 
 ## Overview
 
